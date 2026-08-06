@@ -1,7 +1,3 @@
 Credits:
 
-Xeno: Injection & Execution
-Saturn X: Based api code
-
-Xeno Discord: https://discord.gg/jRkWj8uGhz
-Saturn X Discord: https://discord.gg/qBcPtfBusE
+Discord: https://discord.gg/3PwAy6Zy2D
